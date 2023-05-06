@@ -1,22 +1,33 @@
-# data-science-workshop-final-project
+# 3-DAY-DATA-SCIENCE-WORKSHOP
+Deals with all the basic about python and its usage as a tool in Data Science
 
-deals with all the basic aspects of data science and data visuallisation!!
+First day of the datascience workshop dealt with the Basics of Python language:
+Covered
+- Fundamentals
 
-------------------------Day 1 04/05/2023--------------------------------
--> covered all the basic of python language.
--> printed hello! world and worked on the data-types (immediate level)
--> discussed the advantages of Data-Science and Visuallisations in industry.
+- Data Structures
 
-------------------------Day 2 05/05/2023--------------------------------
--> Introduction to Data-Science all basic.
--> data-modelling and data-analysis
--> visuallisation and python libraries
+- Control Statements
 
-------------------------Day 3 06/05/2023--------------------------------
--> final Airline Project
--> represented the Excel sheet in the Visuallised format using the Graphs and Pi-Chart.
 
--------------------------------------------------------------------------
+Second day of the datascience workshop dealt with the Basics of Python language:
+Covered
+- Geo-Referencing and Geo-Coordinating on maps
+
+- Generating Random Elliptical data and its fitting
+
+Third day of the datascience workshop dealt with the Basics of Python language:
+Covered
+- Working on CSV file with pandas dataframe
+
+- Data HAndeling
+
+- Data Vizualization
+
+- Developing Project Repository
+
+- Showcasing our project work on social media platforms
+
 Written by : Ansh 
 College    : HIET Shahpur
 Branch     : B-Tech CSE 4th Sem
