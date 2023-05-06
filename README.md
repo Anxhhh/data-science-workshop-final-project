@@ -20,7 +20,7 @@ Third day of the datascience workshop dealt with the Basics of Python language:
 Covered
 - Working on CSV file with pandas dataframe
 
-- Data HAndeling
+- Data Handling 
 
 - Data Vizualization
 
